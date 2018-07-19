@@ -1,0 +1,29 @@
+{
+  "name": "Proxy",
+  "version": "1.0.0",
+  "description": "Proxy patterns for ungradeability",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^1.11.0-rc.1",
+    "truffle-hdwallet-provider": "0.0.5",
+    "truffle-privatekey-provider": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammeWang/Proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hammeWang/Proxy/issues"
+  },
+  "homepage": "https://github.com/hammeWang/Proxy#readme"
+}
